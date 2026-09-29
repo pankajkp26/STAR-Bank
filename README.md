@@ -1,15 +1,15 @@
-# Star Bank Management System
+# STAR Bank Management System
 
 ## About
 
 This is a simple bank management system made using Python and Tkinter.
 
-It allows the user to:
+It enable the user to:
 
-- Create a new bank account
-- Login to an account
-- Deposit money
-- Withdraw money
+- Open a new bank account
+- Sign in to an account
+- Make a Deposit
+- Withdraw Cash
 - Check account balance
 - Logout from the account
 
@@ -20,7 +20,7 @@ It allows the user to:
 
 ## Features
 
-### Create Account
+### Make Account
 
 The user enters:
 
@@ -32,7 +32,7 @@ The program generates a random account number.
 
 ### Login
 
-The user logs in using:
+The user logs in with:
 
 - Name
 - Account number
@@ -40,19 +40,19 @@ The user logs in using:
 
 ### Deposit
 
-The user can add money to their account.
+The user can top-up to his account.
 
 ### Withdraw
 
-The user can withdraw money if they have enough balance.
+The user can withdraw money when they has sufficient balance.
 
-### Check Balance
+### Balance Check
 
-The user can view their current account balance.
+The user can see his  current balance of account.
 
 ## How to Run
 
-Make sure Python is installed on your computer.
+Be sure that you have Python installed on your computer.
 
 Run the Python file:
 
