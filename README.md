@@ -64,11 +64,7 @@ Tkinter normally comes with Python.
 
 ## Note
 
-This is a basic educational project.
-
 The account data is stored only while the program is running. The data is lost when the program is closed.
-
-This project is not intended for real banking use.
 
 ## Project Structure
 
